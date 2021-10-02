@@ -16,19 +16,31 @@ S. No. | Track | Repository Link
 ![fork](/Dispaly/fork.png)
 - Copy the URL of the forked repository which should be under your profile name.
 - Clone the repository on your local machine using the following command:  
-```git clone [Copied URL]```
+```
+git clone [Copied URL]
+```
 - Open the `Submissions` folder and create a subfolder with named after your details in the format `Name-RollNumber`.
 - Add your submission to the folder you just created with your credentials.
 - Make sure that your command shell is inside the project folder or use the `cd` command to change the working directory such as:  
-```cd Start-ReactJS/```
+```
+cd Start-ReactJS/
+```
 - Confirm the folder/files you want to add using the command:  
-```git status```
+```
+git status
+```
 - Add the changes to your staging area using the following command:  
-```git add .```
+```
+git add .
+```
 - Commit the changes to your staging area using the following command:  
-```git commit -m "You commit message"```
+```
+git commit -m "You commit message"
+```
 - Push the changes to your remote repository using the following command:  
-```git push```
+```
+git push
+```
 - Refresh your repository page on your GitHub profile to confirm that your changes have been saved and uploaded to your forked repository.
 - Under the `Contribute` dropdown button click `Open pull request`  
 ![Contribute](/Dispaly/contribute.png)
