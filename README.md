@@ -1,6 +1,6 @@
 # Hacktoberfest-Marathon-Welcome
 
-<div style="text-align: center;">
+<div align="center">
  Open source is changing the world – one contribution at a time.<br><br>
 <strong>Support open source throughout October!</strong><br>
 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt. 
