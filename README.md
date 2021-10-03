@@ -86,7 +86,7 @@ S. No. | Track | Repository Link | Developed By
 
 ## Connect with the Community :rocket:
 <div align="center">
-  <img src="Dispaly/GDSCCGC-community.jpeg" height="100px" style="border-radius:50%" />
+  <img src="Dispaly/GDSCCGC-community.jpeg" height="200px" />
   <br><br>
   <a href="https://twitter.com/dsccgc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-53-189787.png" height="50px" /></a>&emsp;
   <a href="https://t.me/dsccgc"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" height="50px"/></a>&emsp;
