@@ -23,13 +23,13 @@
 ### How to Participate
 As a participant, whether a beginner or experienced, you have an opportunity to learn about open source and contribute to open source projects. Open-source projects keep the internet humming—but they can’t do it without resources. Donate and support their awesome work.   
 
-In order to participante, you need to sign in on the [Hacktoberfest Website](https://hacktoberfest.digitalocean.com/) using your GitHub account. All the pull requests that you initiate will be tracked through this portal. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
+In order to participate, you need to sign in on the [Hacktoberfest Website](https://hacktoberfest.digitalocean.com/) using your GitHub account. All the pull requests that you initiate will be tracked through this portal. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
 Once registered, you need to contribute to open source projects which are participating in the fest. Pull requests can be made in any participating GitHub or GitLab hosted repository/projects. Look for the 'hacktoberfest' topic to know if a project is participating in Hacktoberfest. 
 
 A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label.
 
-Participants with atleast 4 accepted pull requests will receive rewards from digitalocean. Rather than receive t-shirts as swag, you can choose to have a tree planted in your name and help make Hacktoberfest 2021 more carbon neutral. 
+Participants with at least 4 accepted pull requests will receive rewards from digitalocean. Rather than receive t-shirts as swag, you can choose to have a tree planted in your name and help make Hacktoberfest 2021 more carbon neutral. 
 
 ### Rules
 - The pull request must contain commits you made yourself.
@@ -46,24 +46,23 @@ S. No. | Track | Repository Link | Developed By
 5 | OpenCV-Python | [https://github.com/GDSC-CGC/Start-OpenCV-Python](https://github.com/GDSC-CGC/Start-OpenCV-Python) | GDSC CGC
 
 ## Steps to Contribtue :octocat:
-- Fork the repository of the track you are willing to follow using the fork button on the top right of the repository page.  
+- Fork the repository of the track you are willing to follow using the fork button on the top right of the repository page. This will create a new repository under your profile containing all the content from this track. You can change the code on your forked repository and send a pull request for it to be merged with our track repository.  
 ![fork](/Dispaly/fork.png)
-- Copy the URL of the forked repository which should be under your profile name.
-- Clone the repository on your local machine using the following command:  
+- Copy the URL of the forked repository which should be under your account.
+- Clone the repository on your local machine for editing the content and adding your submission using the following command:  
   ```
   git clone [Copied URL]
   ```
-- Open the `Submissions` folder and create a subfolder named after your details in the format `Name-RollNumber`.
-- Add your submission to the folder you just created with your credentials.
-- Make sure that your command shell is inside the project folder or use the `cd` command to change the working directory such as:  
+- Open the `Submissions` folder and create a subfolder named after your details in the format of `Name-RollNumber` and add your submission files for the task to this folder.
+- In order to save the changes make and add them to your GitHub repository, open a terminal window (Command Line / Powershell / Terminal / Git Bash / etc). Make sure that your command shell is inside the project folder or use the `cd` command to change the working directory such as:  
   ```
   cd Start-ReactJS/
   ```
-- Confirm the folder/files you want to add using the command:  
+- Confirm the folder/files you want to add or change using the command:  
   ```
   git status
   ```
-- Add the changes to your staging area using the following command:  
+- Add the changes to your staging area. This includes the files you want to make permanent with the next commit. In order to add all the files marked in the result of the last command, use the following command:  
   ```
   git add .
   ```
@@ -71,12 +70,12 @@ S. No. | Track | Repository Link | Developed By
   ```
   git commit -m "You commit message"
   ```
-- Push the changes to your remote repository using the following command:  
+- Now that you have made your changes permanent, you need to push the changes to your forked repository on GitHub. Push the changes to your remote repository using the following command:  
   ```
   git push
   ```
 - Refresh your repository page on your GitHub profile to confirm that your changes have been saved and uploaded to your forked repository.
-- Under the `Contribute` dropdown button click `Open pull request`  
+- In order to make a submission, with the changes you have just committed and pushed to your repository, under the `Contribute` dropdown button click `Open pull request`.  
 ![Contribute](/Dispaly/contribute.png)
 - Confirm the changes you want to submit and click `Create pull request`.  
 ![Create PR](/Dispaly/createpr.png)
