@@ -10,6 +10,7 @@
 - [Hacktoberfest](#hacktoberfest-rocket)
 - [Our Tracks](#our-tracks-sparkles)
 - [Steps to Contribtue](#steps-to-contribtue-octocat)
+- [Connect with the Community](#connect-with-the-community-rocket)
 
 ## Hacktoberfest :rocket:
 ### What is Hacktoberfest?
@@ -82,3 +83,14 @@ S. No. | Track | Repository Link | Developed By
 - Add a title and any additional comment to your pull request and click on `Create pull request`.  
 ![PR Message and Comment](/Dispaly/prmessage.png)
 - Follow up if asked to making any changes to your pull request and adding any additional commits.
+
+## Connect with the Community :rocket:
+<div align="center">
+  <img src="Dispaly/GDSCCGC-community.jpeg" height="100px" style="border-radius:50%" />
+  <br><br>
+  <a href="https://twitter.com/dsccgc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-53-189787.png" height="50px" /></a>&emsp;
+  <a href="https://t.me/dsccgc"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" height="50px"/></a>&emsp;
+  <a href="https://www.linkedin.com/company/dsccgc/"><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-48-189774.png" height="50px" /></a>&emsp;
+  <a href="https://bit.ly/GDSC-CGC-Community2"><img src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-3691235-3073755.png" height="50px" /></a>&emsp;
+  <a href="https://www.instagram.com/gdsccgc/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-52-151106.png" height="50px" /></a>
+</div>
