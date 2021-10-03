@@ -1,5 +1,7 @@
 # Hacktoberfest-Marathon-Welcome
 
+![Hacktoberfest logo](/Dispaly/logo-hacktoberfest-full.f42e3b1.svg)
+
 <div align="center">
  Open source is changing the world – one contribution at a time.<br><br>
  <strong>Support open source throughout October!</strong><br>
