@@ -2,11 +2,16 @@
 
 <div align="center">
  Open source is changing the world – one contribution at a time.<br><br>
-<strong>Support open source throughout October!</strong><br>
-Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt. 
+ <strong>Support open source throughout October!</strong><br>
+ Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt. 
 </div>
 
-## Hacktoberfest
+## Contents
+- [Hacktoberfest](#hacktoberfest-rocket)
+- [Our Tracks](#our-tracks-sparkles)
+- [Steps to Contribtue](#steps-to-contribtue-octocat)
+
+## Hacktoberfest :rocket:
 ### What is Hacktoberfest?
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/), in its 8th year, is a month-long celebration of open source software run by [DigitalOcean](https://www.digitalocean.com/). During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. You can do this in a variety of ways:
 - Prepare and share your project for collaboration
@@ -31,7 +36,7 @@ Participants with atleast 4 accepted pull requests will receive rewards from dig
 - If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
-## Our Tracks
+## Our Tracks :sparkles:
 S. No. | Track | Repository Link | Developed By
 --- | --- | --- | ---
 1 | ReactJS | [https://github.com/GDSC-CGC/Start-ReactJS](https://github.com/GDSC-CGC/Start-ReactJS) | GDSC CGC
@@ -40,7 +45,7 @@ S. No. | Track | Repository Link | Developed By
 4 | Kotlin | [https://github.com/GDSC-CGC/Start-Kotlin](https://github.com/GDSC-CGC/Start-Kotlin) | GDSC CGC
 5 | OpenCV-Python | [https://github.com/GDSC-CGC/Start-OpenCV-Python](https://github.com/GDSC-CGC/Start-OpenCV-Python) | GDSC CGC
 
-## Steps to Contribtue
+## Steps to Contribtue :octocat:
 - Fork the repository of the track you are willing to follow using the fork button on the top right of the repository page.  
 ![fork](/Dispaly/fork.png)
 - Copy the URL of the forked repository which should be under your profile name.
