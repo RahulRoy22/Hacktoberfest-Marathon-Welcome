@@ -56,7 +56,7 @@ S. No. | Track | Repository Link | Developed By
   ```
   git clone [Copied URL]
   ```
-- Open the `Submissions` folder and create a subfolder named after your details in the format of `Name-RollNumber` and add your submission files for the task to this folder.
+- Open the `Submissions` folder and create a subfolder named after your university rollnumber and add your submission files for the task to this folder.
 - In order to save the changes make and add them to your GitHub repository, open a terminal window (Command Line / Powershell / Terminal / Git Bash / etc). Make sure that your command shell is inside the project folder or use the `cd` command to change the working directory such as:  
   ```
   cd Start-ReactJS/
